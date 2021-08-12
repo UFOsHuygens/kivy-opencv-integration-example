@@ -1,0 +1,1 @@
+# kivy-opencv-integration-example
